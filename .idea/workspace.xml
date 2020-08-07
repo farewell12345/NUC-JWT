@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9033eb4-a996-4d43-82fd-ff885a4fe4b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyJWT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerMain/src/main/java/com/kenvix/utils/preferences/ServerEnv.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerMain/src/main/java/com/kenvix/utils/preferences/ServerEnv.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1flgke3JoPk7hJjOQ3cMqsJJyC9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="JWT.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JWT [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Gradle.JWT [dependencies]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9033eb4-a996-4d43-82fd-ff885a4fe4b4" name="Default Changelist" comment="" />
+      <created>1596798239722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596798239722</updated>
+      <workItem from="1596798242302" duration="4317000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1596800306428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1596800306428" />
+    <state width="1493" height="449" key="GridCell.Tab.0.bottom" timestamp="1596802564936">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="449" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596802564936" />
+    <state width="1493" height="449" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1596801413636" />
+    <state width="1493" height="449" key="GridCell.Tab.0.center" timestamp="1596802564936">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="449" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596802564936" />
+    <state width="1493" height="449" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1596801413635" />
+    <state width="1493" height="449" key="GridCell.Tab.0.left" timestamp="1596802564936">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="449" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596802564936" />
+    <state width="1493" height="449" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1596801413634" />
+    <state width="1493" height="449" key="GridCell.Tab.0.right" timestamp="1596802564936">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="449" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596802564936" />
+    <state width="1493" height="449" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1596801413635" />
+    <state width="1493" height="449" key="GridCell.Tab.1.bottom" timestamp="1596802564937">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="449" key="GridCell.Tab.1.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596802564937" />
+    <state width="1493" height="449" key="GridCell.Tab.1.bottom/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1596801413636" />
+    <state width="1493" height="449" key="GridCell.Tab.1.center" timestamp="1596802564937">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="449" key="GridCell.Tab.1.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596802564937" />
+    <state width="1493" height="449" key="GridCell.Tab.1.center/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1596801413636" />
+    <state width="1493" height="449" key="GridCell.Tab.1.left" timestamp="1596802564936">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="449" key="GridCell.Tab.1.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596802564936" />
+    <state width="1493" height="449" key="GridCell.Tab.1.left/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1596801413636" />
+    <state width="1493" height="449" key="GridCell.Tab.1.right" timestamp="1596802564937">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="449" key="GridCell.Tab.1.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596802564937" />
+    <state width="1493" height="449" key="GridCell.Tab.1.right/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1596801413636" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1596802536835">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596802536835" />
+    <state x="186" y="64" width="1110" height="807" key="dock-window-1" timestamp="1596801815141">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="186" y="64" width="1110" height="807" key="dock-window-1/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596801815141" />
+    <state x="-8" y="-8" width="1110" height="807" maximized="true" key="dock-window-1/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1596800483708" />
+    <state x="1920" y="0" width="603" height="832" key="find.popup" timestamp="1596800258553">
+      <screen x="1920" y="0" width="1536" height="832" />
+    </state>
+    <state x="1920" y="0" width="603" height="832" key="find.popup/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1596800258553" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.auth0.jwt.JWTDecoder" memberName="header" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
